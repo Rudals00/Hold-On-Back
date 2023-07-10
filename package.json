@@ -1,0 +1,32 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Madcamp2_server",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudals9686/madcamp_week2_server.git"
+  },
+  "keywords": [
+    "\"madcamp",
+    "week2",
+    "server",
+    "node.js",
+    "express\""
+  ],
+  "author": "김경민",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudals9686/madcamp_week2_server/issues"
+  },
+  "homepage": "https://github.com/rudals9686/madcamp_week2_server#readme"
+}
